@@ -1,0 +1,40 @@
+{
+  "homepage": "http://DhruviDesai04.github.io/addNotes",
+  "name": "managing-a-component-tree-practice-completed",
+  "version": "1.0.0",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "react-scripts": "3.2.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.0",
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DhruviDesai04/addNotes.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DhruviDesai04/addNotes/issues"
+  },
+  "description": ""
+}
